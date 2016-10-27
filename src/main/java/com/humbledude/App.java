@@ -1,6 +1,7 @@
-package com.humbledude.common;
+package com.humbledude;
 
-import com.humbledude.common.io.Files;
+
+import com.humbledude.io.Files;
 
 /**
  * Created by keunhui.park on 2016. 10. 26..

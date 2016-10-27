@@ -1,6 +1,5 @@
-package com.humbledude.common.io;
+package com.humbledude.io;
 
-import com.humbledude.common.etc.Utils;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
